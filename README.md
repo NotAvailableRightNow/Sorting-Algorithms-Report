@@ -1,11 +1,11 @@
-# Báo cáo thử nghiệm các thuật toán sắp xếp
+# Báo cáo thực nghiệm các thuật toán sắp xếp - DSA
 
-**Sinh viên thực hiện:** Nguyễn Ngọc Nhớ
+**Sinh viên thực hiện:** Dương Đăng Quang
 
 
 **Lớp:** KHTN2025
 
 
-**MSSV:** 25521339
+**MSSV:** 25521516
 ## Nội dung
-Repository này chứa mã nguồn và báo cáo kết quả so sánh hiệu năng của các giải thuật: QuickSort, HeapSort, MergeSort và NumPy Sort.
+Benchmark được thực hiện trong benchmark.ipynb
