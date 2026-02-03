@@ -30,7 +30,6 @@ def utils(a, l, m, r):
 def mergeSort(a, l, r):
     if l < r:
         mid = (l + r) // 2
-
         mergeSort(a, l, mid)
         mergeSort(a, mid + 1, r)
         utils(a, l, mid, r)
